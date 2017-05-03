@@ -2,7 +2,7 @@
 DocsData = {
   "\"click .delete-comment\"": {
     "filename": "story.js",
-    "filepath": "https://github.com/username/myproject/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
+    "filepath": "https://github.com/Sabuco/CaraLibro/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
     "ismethod": "true",
     "kind": "function",
     "lineno": 170,
@@ -25,7 +25,7 @@ DocsData = {
   },
   "\"click .delete-story\"": {
     "filename": "story.js",
-    "filepath": "https://github.com/username/myproject/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
+    "filepath": "https://github.com/Sabuco/CaraLibro/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
     "ismethod": "true",
     "kind": "function",
     "lineno": 29,
@@ -34,8 +34,8 @@ DocsData = {
     "name": "\"click .delete-story\"",
     "params": [
       {
-        "description": "<p>neceseita el evento para borrarlo</p>",
-        "name": "Se",
+        "description": "<p>necesita el evento para borrarlo</p>",
+        "name": "e",
         "type": {
           "names": [
             "Object"
@@ -48,7 +48,7 @@ DocsData = {
   },
   "\"click .like\"": {
     "filename": "story.js",
-    "filepath": "https://github.com/username/myproject/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
+    "filepath": "https://github.com/Sabuco/CaraLibro/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
     "ismethod": "true",
     "kind": "function",
     "lineno": 10,
@@ -57,8 +57,8 @@ DocsData = {
     "name": "\"click .like\"",
     "params": [
       {
-        "description": "<p>evento necesita el evento para actualizarse</p>",
-        "name": "el",
+        "description": "<p>el evento necesita el evento para actualizarse</p>",
+        "name": "e",
         "type": {
           "names": [
             "Object"
@@ -71,7 +71,7 @@ DocsData = {
   },
   "\"submit .comment-story\"": {
     "filename": "story.js",
-    "filepath": "https://github.com/username/myproject/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
+    "filepath": "https://github.com/Sabuco/CaraLibro/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
     "ismethod": "true",
     "kind": "function",
     "lineno": 42,
@@ -81,7 +81,7 @@ DocsData = {
     "params": [
       {
         "description": "<p>necesita evento para añadir</p>",
-        "name": "Se",
+        "name": "event",
         "type": {
           "names": [
             "Object"
@@ -94,7 +94,7 @@ DocsData = {
   },
   "dateRefactor": {
     "filename": "story.js",
-    "filepath": "https://github.com/username/myproject/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
+    "filepath": "https://github.com/Sabuco/CaraLibro/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
     "ismethod": "true",
     "kind": "function",
     "lineno": 198,
@@ -117,7 +117,7 @@ DocsData = {
   },
   "datestory": {
     "filename": "story.js",
-    "filepath": "https://github.com/username/myproject/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
+    "filepath": "https://github.com/Sabuco/CaraLibro/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
     "ismethod": "true",
     "kind": "function",
     "lineno": 117,
@@ -140,7 +140,7 @@ DocsData = {
   },
   "likeCount": {
     "filename": "story.js",
-    "filepath": "https://github.com/username/myproject/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
+    "filepath": "https://github.com/Sabuco/CaraLibro/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
     "ismethod": "true",
     "kind": "function",
     "lineno": 127,
@@ -163,7 +163,7 @@ DocsData = {
   },
   "ownerComment": {
     "filename": "story.js",
-    "filepath": "https://github.com/username/myproject/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
+    "filepath": "https://github.com/Sabuco/CaraLibro/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
     "ismethod": "true",
     "kind": "function",
     "lineno": 207,
@@ -176,7 +176,7 @@ DocsData = {
   },
   "ownerStory": {
     "filename": "story.js",
-    "filepath": "https://github.com/username/myproject/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
+    "filepath": "https://github.com/Sabuco/CaraLibro/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
     "ismethod": "true",
     "kind": "function",
     "lineno": 90,
@@ -189,7 +189,7 @@ DocsData = {
   },
   "styleLike": {
     "filename": "story.js",
-    "filepath": "https://github.com/username/myproject/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
+    "filepath": "https://github.com/Sabuco/CaraLibro/tree/masterC:\\Users\\Alvaro\\caralibro\\client\\views\\profile\\story/story.js",
     "ismethod": "true",
     "kind": "function",
     "lineno": 99,
