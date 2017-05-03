@@ -1,0 +1,9 @@
+[[[[[ C:\Users\Alvaro\myproject-docs ]]]]]
+
+=> Started proxy.
+=> Started MongoDB.
+=> Started your app.
+
+=> App running at: http://localhost:3333/
+   Type Control-C twice to stop.
+
