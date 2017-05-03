@@ -136,7 +136,7 @@ DocsData = {
       }
     ],
     "scope": "global",
-    "summary": "Function to refactor the date of the story"
+    "summary": "Funcion para cambiar la fecha de la story"
   },
   "likeCount": {
     "filename": "story.js",
